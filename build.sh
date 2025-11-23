@@ -1,0 +1,1 @@
+docker buildx build https://github.com/Solositeous/code-tunnel.git -t code-tunnel:latest

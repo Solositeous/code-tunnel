@@ -1,0 +1,4 @@
+# Add to .gitignore
+.env
+workspace/
+*.tar.gz
